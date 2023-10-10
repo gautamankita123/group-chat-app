@@ -32,5 +32,8 @@ async function signup(user) {
 
     if (success)
         alert('Signup successful!')
+    else {
+
+    }
 
 }
